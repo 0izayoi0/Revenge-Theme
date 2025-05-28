@@ -23,13 +23,13 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#070010"
+            "#100000"
         ],
         "BACKGROUND_MENTIONED": [
             "#CC001115"
         ],
         "BG_BASE_TERTIARY": [
-            "#040405"
+            "#000000"
         ],
         "BG_BASE_PRIMARY": [
             "#09090A"
