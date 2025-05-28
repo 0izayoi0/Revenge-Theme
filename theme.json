@@ -1,9 +1,9 @@
 {
-    "name": "Darkened Blood",
-    "description": "A dark theme with red accents.",
+    "name": "Pitch Blood",
+    "description": "A fork of Darkened Blood.",
     "authors": [
         {
-            "name": "Purple_Ξye™"
+            "name": "ezoe"
         }
     ],
     "semanticColors": {
