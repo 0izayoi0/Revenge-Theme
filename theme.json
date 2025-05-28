@@ -8,13 +8,13 @@
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#000000"
+            "#020202"
         ],
         "ANDROID_RIPPLE": [
             "#B3000F23"
         ],
         "BACKGROUND_ACCENT": [
-            "#CC0011"
+            "#CC0000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#8c8c8c12"
