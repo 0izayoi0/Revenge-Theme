@@ -56,10 +56,10 @@
             "#CC001166"
         ],
         "EMBED_BACKGROUND": [
-            "#111011"
+            "#0c0c0c"
         ],
         "EMBED_BACKGROUND_ALTERNATE": [
-            "#111011"
+            "#0c0c0c"
         ],
         "INTERACTIVE_ACTIVE": [
             "#CC0011"
@@ -71,7 +71,7 @@
             "#CC0011"
         ],
         "PANEL_BG": [
-            "#0C0C0D"
+            "#030303"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
             "#74000A"
@@ -184,7 +184,7 @@
     },
     "spec": 2,
     "plus": {
-        "version": 1.4,
+        "version": 1.5,
         "mentionLineColor": "#CC0011"
     }
 }
