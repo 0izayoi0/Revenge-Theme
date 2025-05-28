@@ -8,7 +8,7 @@
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#000000"
+            "#09090A"
         ],
         "ANDROID_RIPPLE": [
             "#B3000F23"
@@ -20,10 +20,10 @@
             "#8c8c8c12"
         ],
         "BACKGROUND_PRIMARY": [
-            "#09090A"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0f0f10"
+            "#070010"
         ],
         "BACKGROUND_MENTIONED": [
             "#CC001115"
